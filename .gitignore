@@ -1,0 +1,8 @@
+node_modules/
+*pnpm*
+*.venv
+.env
+*__pycache__
+*chats
+chroma_data/
+**/storage
